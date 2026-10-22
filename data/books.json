@@ -1,0 +1,622 @@
+[
+  {
+    "number": 1,
+    "title": "The River Run",
+    "slug": "the-river-run",
+    "cover": "/assets/covers/the-river-run.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Missing Case. A Missing Man. One Family's Truth.",
+      "BOOK TYPE": "A coming-of-age mystery",
+      "BACK HOOK": "TWENTY-FOUR CASES WENT OUT.\nTWENTY-THREE CAME BACK.\nJACK HART DID NOT.",
+      "BACK KICKER": "SUGAR ISLAND, MICHIGAN  •  1929",
+      "BACK BLURB": "Eighteen-year-old Will Hart knows boats, engines, and the night crossings his family uses to carry Canadian whiskey past U.S. Prohibition.\n\nWhen one case disappears and Uncle Jack vanishes with it, Will follows fuel marks, secret records, and quiet patrols into a protection scheme his father refuses to explain.\n\nBut the missing case and the missing man are not the same mystery—and the truth will cost Will more than he expects to pay.",
+      "BACK CLOSING": "Some loads have to be counted twice."
+    },
+    "pages": 152,
+    "source_art": "book01/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1664,
+      38,
+      3182,
+      2381
+    ],
+    "source_copy": "book01/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": "https://www.amazon.com/dp/B0HJVTL8ZJ",
+    "paperback": "https://www.amazon.com/dp/B0HJW5W21T",
+    "status": "published"
+  },
+  {
+    "number": 2,
+    "title": "The County Fair",
+    "slug": "the-county-fair",
+    "cover": "/assets/covers/the-county-fair.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Traveling Midway. A Summer Romance. A Choice Between Leaving and Staying.",
+      "BOOK TYPE": "A coming-of-age romance",
+      "BACK HOOK": "THE FARM EXPECTS HIM BACK.\nTHE MIDWAY IS READY TO LEAVE.\nSCOTT HAS ONE SUMMER TO CHOOSE.",
+      "BACK KICKER": "MICHIGAN  •  ONE SUMMER",
+      "BACK BLURB": "At eighteen, Scott Dwyer's future has already been decided: stay on the family farm and take his place beside his father.\n\nThen a temporary job with a traveling midway puts him under the rides, beside the people who keep them running, and close to Anne Bell—a girl building plans of her own.\n\nBy summer's end, Scott has three roads in front of him: the farm that raised him, the crew that made room for him, and a railroad shop where he could begin again. Choosing one means leaving the others.",
+      "BACK CLOSING": "Leaving is easy. Choosing is the hard part."
+    },
+    "pages": 156,
+    "source_art": "book02/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1666,
+      38,
+      3184,
+      2381
+    ],
+    "source_copy": "book02/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": "https://www.amazon.com/dp/B0HKC7HDKW",
+    "paperback": "https://www.amazon.com/dp/B0HKDPV7PC",
+    "status": "published"
+  },
+  {
+    "number": 3,
+    "title": "The Winter Mail",
+    "slug": "the-winter-mail",
+    "cover": "/assets/covers/the-winter-mail.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Lost Letter. A Woman Presumed Dead. A Secret He Has No Right to Open.",
+      "BOOK TYPE": "A historical coming-of-age mystery",
+      "BACK HOOK": "THE ADDRESS IS REAL.\nTHE WOMAN WHO WROTE IT IS SUPPOSED TO BE DEAD.\nELI HAS NO RIGHT TO ASK WHY.",
+      "BACK KICKER": "MARLOW, KENTUCKY  •  WINTER 1938",
+      "BACK BLURB": "When his father breaks a leg, eighteen-year-old Eli Mercer takes over Rural Route Four through a Kentucky winter. Every house trusts him with letters, parcels, and facts no carrier is meant to keep.\n\nThen a Cincinnati return address bears the name Clara Raines—a woman Marlow believes died fifteen years ago.\n\nEli follows the name through county records and old stories. But as illness presses the Raines family and Clara's letters keep coming, the real question is not whether she is alive. It is what knowing gives Eli the right to do.",
+      "BACK CLOSING": "The route gives him every clue. It gives him no permission."
+    },
+    "pages": 127,
+    "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1646,
+      38,
+      3164,
+      2381
+    ],
+    "source_copy": "book03/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 4,
+    "title": "The Flood Line",
+    "slug": "the-flood-line",
+    "cover": "/assets/covers/the-flood-line.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A City Underwater. Two Homes in Danger. One Choice That Cannot Be Undone.",
+      "BOOK TYPE": "A historical disaster novel",
+      "BACK HOOK": "THE RIVER KEPT RISING.\nTWO FAMILIES KEPT WAITING.\nBEN COULD REACH ONLY ONE IN TIME.",
+      "BACK KICKER": "LOUISVILLE, KENTUCKY  •  JANUARY 1937",
+      "BACK BLURB": "Eighteen-year-old Ben is good at things people can measure: rope, lumber, weight, and whether a boat will hold four people or three.\n\nThen the Ohio River climbs into the streets. Ben joins an improvised rescue network, rowing medicine and families through neighborhoods he once knew by pavement.\n\nNear the crest, two households need him at once: a sick mother with three children, and an older couple already trusting his promise. Ben makes the defensible choice. The water does not spare him its cost.",
+      "BACK CLOSING": "The river will fall. What he owes will remain."
+    },
+    "pages": 156,
+    "source_art": "book04/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1666,
+      38,
+      3184,
+      2381
+    ],
+    "source_copy": "book04/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 5,
+    "title": "The Locksmith",
+    "slug": "the-locksmith",
+    "cover": "/assets/covers/the-locksmith.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Two Unauthorized Rekeys. One Familiar Method. Access No One Had the Right to Use.",
+      "BOOK TYPE": "A mystery",
+      "BACK HOOK": "TWO LOCKS WERE CHANGED.\nNEITHER JOB WAS AUTHORIZED.\nTHE WORK LOOKS FAMILIAR.",
+      "BACK KICKER": "ASHBY, KENTUCKY  •  EARLY 1990S",
+      "BACK BLURB": "Twenty-year-old Evan Holt has spent three weeks apprenticing at Keene Lock & Safe, learning that opening a stranger's door begins with proving who has the right to ask.\n\nWhen Claire Dorsey's key stops working twice, Evan recognizes the same installation habits in both unauthorized locks. The obvious suspect is her estranged husband. The shop's records point somewhere more dangerous.\n\nService tickets, missing stock, and legitimate-looking authorization lead toward someone who has spent years using real locksmiths to enter places he had no right to be. To stop him, Evan must investigate a system built on trust without abusing that trust himself.",
+      "BACK CLOSING": "The lock did not fail. The permission did."
+    },
+    "pages": 167,
+    "source_art": "book05/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1674,
+      38,
+      3192,
+      2381
+    ],
+    "source_copy": "book05/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 6,
+    "title": "The Night Clerk",
+    "slug": "the-night-clerk",
+    "cover": "/assets/covers/the-night-clerk.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A False Name. A Warm Engine. A Guest Who Is Not Who He Claims.",
+      "BOOK TYPE": "A mystery",
+      "BACK HOOK": "FORTY ROOM NUMBERS.\nTHIRTY-NINE GUEST KEYS.\nONE GUEST WHO NEVER STAYED.",
+      "BACK KICKER": "GRAYDON, KENTUCKY  •  1993",
+      "BACK BLURB": "At Cedar Court Motor Lodge, the night clerk notices what others overlook: a warm hood, a returned key, a room arranged to look occupied.\n\nA man checks in as Michael Keller. By morning, his car remains, the key is back, and Keller is missing. Then police learn the real Michael was dead before the stranger reached the desk.\n\nNow paperwork meant to be forgotten by dawn is the timeline of a murder. And the man who built the false stay knows exactly whose memory can undo it.",
+      "BACK CLOSING": "The room was empty. The record was not."
+    },
+    "pages": 165,
+    "source_art": "book06/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1673,
+      38,
+      3191,
+      2381
+    ],
+    "source_copy": "book06/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 7,
+    "title": "The Inspection",
+    "slug": "the-inspection",
+    "cover": "/assets/covers/the-inspection.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Twenty-Four Units. A Door Marked Twenty-Five. Measurements That Refuse to Agree.",
+      "BOOK TYPE": "A mystery",
+      "BACK HOOK": "TWENTY-FOUR UNITS ON PAPER.\nA DOOR MARKED TWENTY-FIVE.\nA WOMAN WHO HAS LIVED THERE FOR DECADES.",
+      "BACK KICKER": "THE BENTON APARTMENTS  •  1996",
+      "BACK BLURB": "A junior building inspector is sent to document the failing Benton Apartments before demolition. The records show twenty-four units. On the third floor, beyond the last approved door, is Apartment 25.\n\nEleanor Pike has lived there for decades. Her neighbors know her, her rent has been paid, and her key fits. The city has no record of her home—and the measurements say there is no room for it.\n\nAs demolition closes in, the inspector must decide what can be proved, what can be made safe, and what the city owes a woman whose life exists everywhere except the plan.",
+      "BACK CLOSING": "A person matters more than the plan."
+    },
+    "pages": 134,
+    "source_art": "book07/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1651,
+      38,
+      3169,
+      2381
+    ],
+    "source_copy": "book07/images-print/cover-copy.txt",
+    "group": "quiet-horror",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 8,
+    "title": "The Jury Room",
+    "slug": "the-jury-room",
+    "cover": "/assets/covers/the-jury-room.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Locked Cabinet. A Blank Access Log. An Exhibit That Keeps Moving.",
+      "BOOK TYPE": "A courthouse evidence mystery",
+      "BACK HOOK": "THE CABINET IS LOCKED.\nTHE ACCESS LOG IS BLANK.\nEXHIBIT 27 KEEPS MOVING.",
+      "BACK KICKER": "BRIAR COUNTY COURTHOUSE  •  COURTROOM TWO",
+      "BACK BLURB": "Leah Carden keeps Courtroom Two running by making sure every exhibit, key, and signature is exactly where it belongs. Then a red ledger moves inside a locked cabinet—and no one has signed the access sheet.\n\nInstead of reporting it, Leah watches. She keeps a private log. She sets a harmless test. By the time two missing pages surface, her careful search has become part of a discovery failure that could destroy a murder trial.\n\nWith a defendant's freedom, a widow's answers, and Leah's own career at stake, the court must decide whether good intentions can repair a record that no longer deserves trust.",
+      "BACK CLOSING": "What isn't recorded can still change everything."
+    },
+    "pages": 126,
+    "source_art": "book08/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1645,
+      38,
+      3163,
+      2381
+    ],
+    "source_copy": "book08/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 9,
+    "title": "The Last Inventory",
+    "slug": "the-last-inventory",
+    "cover": "/assets/covers/the-last-inventory.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Factory Closing. Equipment That Never Existed. A Man Still Drawing Pay.",
+      "BOOK TYPE": "An industrial accounting mystery",
+      "BACK HOOK": "THREE MACHINES WERE PAID FOR.\nNOT ONE REACHED THE FLOOR.\nONE MAN KEPT DRAWING PAY.",
+      "BACK KICKER": "BARLOW INDUSTRIAL PRODUCTS  •  1992",
+      "BACK BLURB": "After thirty-four years at Barlow Industrial Products, Walter Quinn knows every machine on the floor—or thinks he does.\n\nAs the failing factory is tagged for auction, three expensive machining centers appear in the records. No one remembers receiving them. There are no foundations, freight bills, or rigging scars. Then Walter finds a second impossibility: Earl Morrow, who supposedly quit in 1983, remained on the payroll for seven years.\n\nFollowing invoices, lender files, and a receiving ledger in Earl's block letters, Walter uncovers the bargain that kept the plant alive—and asks what an honest man owes the truth when the lie paid everyone's wages.",
+      "BACK CLOSING": "The truth begins with what never arrived."
+    },
+    "pages": 129,
+    "source_art": "book09/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1647,
+      38,
+      3165,
+      2381
+    ],
+    "source_copy": "book09/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 10,
+    "title": "The Estate Sale",
+    "slug": "the-estate-sale",
+    "cover": "/assets/covers/the-estate-sale.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A House Full of Belongings. A Family's Story. Proof Someone Else Lived There.",
+      "BOOK TYPE": "An estate-sale mystery",
+      "BACK HOOK": "THE FAMILY KNOWS WHAT TO SELL.\nSOMEONE ELSE'S LIFE IS STILL INSIDE.\nTHE DOORS OPEN THURSDAY.",
+      "BACK KICKER": "MONTGOMERY COUNTY, OHIO  •  SALE WEEK",
+      "BACK BLURB": "Nora Bennett knows how to divide a stranger's home: sell, return, donate, discard. At Eleanor Redding's estate, two worn chairs and a second set of clothes point to something no checklist covers.\n\nRuth Ames lived here. Her mail arrived here. Her sewing machine waits upstairs. But the family hired Nora to finish the sale, and every delay costs time. When Nora starts protecting Ruth's belongings, careful observation becomes an excuse to cross a boundary.\n\nWith buyers waiting at the door, Nora must separate ownership from use, evidence from inference—and decide whether being right can ever excuse acting without permission.",
+      "BACK CLOSING": "Seeing the truth does not make it yours."
+    },
+    "pages": 130,
+    "source_art": "book10/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1648,
+      38,
+      3166,
+      2381
+    ],
+    "source_copy": "book10/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 11,
+    "title": "The Third Shift",
+    "slug": "the-third-shift",
+    "cover": "/assets/covers/the-third-shift.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Machine Running Off the Books. Valid Labels. Parts With No Destination.",
+      "BOOK TYPE": "An industrial night-shift mystery",
+      "BACK HOOK": "THE MACHINE IS RUNNING.\nTHE BOARD SAYS IT ISN'T.\nTHE PARTS ALREADY EXIST ON PAPER.",
+      "BACK KICKER": "NORTHLINE PLASTICS  •  THIRD SHIFT",
+      "BACK BLURB": "A newly promoted relief lead expects the job to be simple: keep eighteen presses running and leave first shift an honest handoff.\n\nThen Press 12 starts without a work order. The black housings pass inspection and carry valid customer labels, but the production board says the machine is down. Each department holds one accurate piece of the run while the system carries inventory the factory never made.\n\nWhen a premature status sends 514 held parts toward a waiting truck, the night shift must reconstruct thousands of phantom pieces—and find the line between following orders and owning a decision.",
+      "BACK CLOSING": "The truth has to survive the handoff."
+    },
+    "pages": 136,
+    "source_art": "book11/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1652,
+      38,
+      3170,
+      2381
+    ],
+    "source_copy": "book11/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 12,
+    "title": "The Closing Crew",
+    "slug": "the-closing-crew",
+    "cover": "/assets/covers/the-closing-crew.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "One Final Sale. One Forgotten Locker. Eleven Years of Impossible Paychecks.",
+      "BOOK TYPE": "A department-store mystery",
+      "BACK HOOK": "THE STORE IS CLOSING.\nTHE LOCKER SHOULD BE EMPTY.\nTHE PAYCHECKS NEVER STOPPED.",
+      "BACK KICKER": "ASHFORD, KENTUCKY  •  SIX WEEKS TO EMPTY",
+      "BACK BLURB": "A twenty-one-year-old stock clerk expects six weeks of simple work: sell the fixtures, clear the rooms, and leave an empty building behind.\n\nThen the closing crew finds Lydia Voss's sealed locker, untouched since she vanished in 1994. Payroll records show her employee number drawing twenty hours a week for eleven years—long after her shifts stopped.\n\nAs memory, money, and one careless headline collide, the crew must learn what the records prove, what a family owns, and which questions an empty store cannot answer.",
+      "BACK CLOSING": "Some things can be cleared. Others must be named correctly."
+    },
+    "pages": 193,
+    "source_art": "book12/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1693,
+      38,
+      3211,
+      2381
+    ],
+    "source_copy": "book12/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 13,
+    "title": "The Tow Yard",
+    "slug": "the-tow-yard",
+    "cover": "/assets/covers/the-tow-yard.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Routine Accident. A Damaged Car. A Report That Does Not Match.",
+      "BOOK TYPE": "A tow-yard procedural mystery",
+      "BACK HOOK": "THE REPORT SAYS ONE VEHICLE.\nTHE DAMAGE SAYS THERE WAS ANOTHER.\nTHE DRIVER IS GONE.",
+      "BACK KICKER": "FORT WAYNE, INDIANA  •  NIGHT ROTATION",
+      "BACK BLURB": "Tow operator Jess trusts boring photographs. They settle old dents, protect every handoff, and keep a damaged vehicle's story from changing after it enters Ridgeway's gate.\n\nThen an abandoned green Pontiac arrives from a guardrail crash carrying red paint and an amber fragment that do not belong. A battered red Ranger soon enters the yard with matching damage—and a driver who cannot remember the impact.\n\nThe cars may prove contact. They cannot name who drove. As police questions turn observation into suspicion, Jess must learn where evidence ends before one family's uncertainty becomes an accusation.",
+      "BACK CLOSING": "Metal records the impact. It does not name the hands on the wheel."
+    },
+    "pages": 187,
+    "source_art": "book13/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1688,
+      38,
+      3206,
+      2381
+    ],
+    "source_copy": "book13/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 14,
+    "title": "The House Measure",
+    "slug": "the-house-measure",
+    "cover": "/assets/covers/the-house-measure.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Six Missing Feet. One Sealed Wall. A House That Refuses to Add Up.",
+      "BOOK TYPE": "An architectural domestic mystery",
+      "BACK HOOK": "THE HOUSE IS SIX FEET WIDER.\nTHE WALL HAS NO DOOR.\nTHE OWNER WANTS IT LEFT ALONE.",
+      "BACK KICKER": "SPRINGFIELD, OHIO  •  MARCH 2002",
+      "BACK BLURB": "Contractor Evan Holt begins every job outside, where brick keeps a straighter account than old plaster. At 314 Linden, his measurements expose nearly six feet of house that no interior room contains.\n\nHomeowner Margaret Vale already knows the narrow room is there. She will pay more to route the work around it, and her instruction is clear: do not open the sealed wall—or find another way inside.\n\nWhen curiosity turns professional access into trespass, Evan damages more than paint. Then a hidden leak forces the wall open for legitimate work, and every measurement must answer a harder question: what does the project need, and what still belongs only to Margaret?",
+      "BACK CLOSING": "A question can be real without becoming permission."
+    },
+    "pages": 189,
+    "source_art": "book14/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1690,
+      38,
+      3208,
+      2381
+    ],
+    "source_copy": "book14/images-print/cover-copy.txt",
+    "group": "quiet-horror",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 15,
+    "title": "The Power Cut",
+    "slug": "the-power-cut",
+    "cover": "/assets/covers/the-power-cut.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Extreme Heat. An Automated Grid. A Pattern Nobody Ordered.",
+      "BOOK TYPE": "An infrastructure systems mystery",
+      "BACK HOOK": "THE GRID SAYS RESTORED.\nTHE METER SAYS OPEN.\nTHE HOUSE IS STILL DARK.",
+      "BACK KICKER": "BELLWETHER, MICHIGAN  •  101 DEGREES",
+      "BACK BLURB": "Service technician Elena Ortiz trusts physical state over a green status screen. When an automated heat-reduction event leaves Odessa Bell's meter open after the system records a successful restore, one failed command becomes the first visible crack in Bellwether's new grid program.\n\nAcross the city, homes with fewer connected devices are easier to shut off and harder to bring back. Every department's rule makes sense alone. Together, they concentrate longer outages in the same streets.\n\nWhen urgency tempts Elena past the limits of her access, one clean fix drops power to 914 more homes. Now Bellwether must decide who may cut service, who owns restoration, and when a house is truly back.",
+      "BACK CLOSING": "Power is not restored until the house agrees."
+    },
+    "pages": 194,
+    "source_art": "book15/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1693,
+      38,
+      3211,
+      2381
+    ],
+    "source_copy": "book15/images-print/cover-copy.txt",
+    "group": "near-future",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 16,
+    "title": "The Dead Letter Office",
+    "slug": "the-dead-letter-office",
+    "cover": "/assets/covers/the-dead-letter-office.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Undeliverable Letters. People Who Do Not Exist. Real Events Hidden Inside.",
+      "BOOK TYPE": "A historical dead-letter mystery",
+      "BACK HOOK": "THE ADDRESS IS FALSE.\nTHE WARNING IS REAL.\nSOMEONE INSIDE IS READING.",
+      "BACK KICKER": "WASHINGTON, D.C.  •  1948",
+      "BACK BLURB": "Ruth Keene knows the rule of the Dead Letter Office: open an undeliverable letter only far enough to find a lawful route, then stop. But one false address conceals the weak door and night watch of a Richmond warehouse. Days later, thieves strike exactly as the letter foretold.\n\nMore letters follow—different cities, nonexistent relatives, the same careful hand. Their harmless family news maps real commercial targets, while someone inside the office steals each warning before it can be preserved.\n\nCertain she understands the danger better than procedure does, Ruth hides the next letter and directs police from memory. Her private investigation may expose the thieves—but it puts a watchman inside a risk he never agreed to carry.",
+      "BACK CLOSING": "A letter is not yours because you know what it says."
+    },
+    "pages": 182,
+    "source_art": "book16/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1685,
+      38,
+      3203,
+      2381
+    ],
+    "source_copy": "book16/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 17,
+    "title": "The Burial Ledger",
+    "slug": "the-burial-ledger",
+    "cover": "/assets/covers/the-burial-ledger.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Highway Coming Through. Graves That Do Not Match. Names the City Counted Wrong.",
+      "BOOK TYPE": "A historical cemetery-records mystery",
+      "BACK HOOK": "THE MAP SHOWS A GRAVE.\nTHE STONE MARKS ANOTHER.\nTHE GROUND DISAGREES WITH BOTH.",
+      "BACK KICKER": "MERRITT, INDIANA  •  1968",
+      "BACK BLURB": "Records clerk Clara Freeman has spent twenty-six years making Grayhaven Cemetery's paper agree with its ground. Then an expressway line cuts through the eastern annex, and the first disputed plot yields a child's coffin beneath an adult name. The grave under the family monument is empty.\n\nAcross the annex, 214 transfer cards trace back to a 1937 relocation completed on paper but perhaps never completed in the earth. Families want answers, engineers need a defensible count, and every missing record invites Clara to supply the most likely name.\n\nWhen she turns a probable association into an official identity, an unknown man is buried beneath a woman's monument. Correcting that mistake means building a public record honest enough to preserve doubt—before the highway carries the rest away.",
+      "BACK CLOSING": "An honest blank is better than the wrong name."
+    },
+    "pages": 193,
+    "source_art": "book17/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1693,
+      38,
+      3211,
+      2381
+    ],
+    "source_copy": "book17/images-print/cover-copy.txt",
+    "group": "historical",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 18,
+    "title": "The Returns Center",
+    "slug": "the-returns-center",
+    "cover": "/assets/covers/the-returns-center.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "Thousands of Returned Appliances. One Serial Number Used Again. A Fire Waiting to Ship.",
+      "BOOK TYPE": "A supply-chain recall mystery",
+      "BACK HOOK": "THE RECALL WAS CLOSED.\nTHE SERIAL NUMBER CAME BACK.\nSO DID THE FIRE.",
+      "BACK KICKER": "SOUTH OF TOLEDO  •  JANUARY",
+      "BACK BLURB": "Quality auditor Nia Alvarez knows returned appliances leave evidence: worn screws, mismatched parts, and repairs no clean carton can hide. When the same supposedly destroyed serial number appears on heaters returned in three states, she finds recalled machines rebuilt with unapproved safety parts and routed back toward customers.\n\nNorthstar's system calls the recall closed. Its contractor certifies every unit destroyed. But winter demand keeps open-box heaters moving through outlet stores, liquidation sales, and secondhand homes—while each department sees only its own clean transaction.\n\nCertain the approved hold will come too late, Nia creates a private routing rule. The shortcut releases fifty-three suspect heaters and puts a temporary worker's name on her decision. Then one reaches Apartment 6C.",
+      "BACK CLOSING": "A closed record cannot make a dangerous object safe."
+    },
+    "pages": 183,
+    "source_art": "book18/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1686,
+      38,
+      3204,
+      2381
+    ],
+    "source_copy": "book18/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 19,
+    "title": "The Last Line",
+    "slug": "the-last-line",
+    "cover": "/assets/covers/the-last-line.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Disconnected Number. A Demolished Street. Trouble Calls That Keep Getting Through.",
+      "BOOK TYPE": "An analog telephone horror mystery",
+      "BACK HOOK": "THE NUMBER WAS DISCONNECTED.\nTHE STREET HAD BEEN DEMOLISHED.\nAT 2:13, SOMEONE CALLED FOR HELP.",
+      "BACK KICKER": "LYDON, PENNSYLVANIA  •  1989",
+      "BACK BLURB": "Switching technician Mara Vélez knows what an open copper pair should carry: nothing. But during the final weeks of Lydon's aging crossbar exchange, a disconnected line begins receiving nightly trouble calls from Bell Street—a block demolished twenty-seven years earlier.\n\nThe caller reports smoke, trapped residents, and an operator who keeps telling her to remain on the line. Company records say the building was vacant. Old cable charts, parish ledgers, and a hidden trouble card say otherwise.\n\nWith the digital cutover approaching, Mara secretly preserves the obsolete trunk long enough to keep listening. Her unauthorized hold uncovers the names the city erased—but when the dead circuit interferes with a living 911 call, eleven stolen minutes force her to decide what evidence can justify and what no mystery can excuse.",
+      "BACK CLOSING": "The dead line wants an answer. The living caller cannot wait."
+    },
+    "pages": 196,
+    "source_art": "book19/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1695,
+      38,
+      3213,
+      2381
+    ],
+    "source_copy": "book19/images-print/cover-copy.txt",
+    "group": "quiet-horror",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  },
+  {
+    "number": 20,
+    "title": "The Sterile Tray",
+    "slug": "the-sterile-tray",
+    "cover": "/assets/covers/the-sterile-tray.webp",
+    "size": [
+      900,
+      1389
+    ],
+    "copy": {
+      "FRONT TAGLINE": "A Canceled Operation. A Used Instrument Tray. Patients the Hospital Says Were Never There.",
+      "BOOK TYPE": "A medical systems mystery",
+      "BACK HOOK": "THE OPERATION WAS CANCELED.\nTHE TRAY CAME BACK BLOODIED.\nTHE PATIENT DID NOT EXIST.",
+      "BACK KICKER": "ST. VINCENT HARBOR HOSPITAL  •  NIGHT SHIFT",
+      "BACK BLURB": "Central sterile processing lead Helen Okafor knows what a canceled operation should return: a sealed, unused tray. Cart 6B arrives bloodied, one instrument separated from its set, and six hours missing from its tracking history.\n\nBehind a closed operating-room door, skilled clinicians are treating patients St. Vincent's charity system turned away—using canceled case numbers to keep those patients outside billing and collections. Helen understands why. She also knows that clean instruments are not the same as traceable care.\n\nThen a biological indicator turns positive. Sixty-eight trays enter recall, but the hospital can find only the patients whose names it recorded. To reach the others, Helen must expose the secret system she helped protect—and account for the evidence she washed away.",
+      "BACK CLOSING": "A clean tray can hide a contaminated record."
+    },
+    "pages": 193,
+    "source_art": "book20/images-print/cover-print-ready-no-barcode.png",
+    "source_crop": [
+      1693,
+      38,
+      3211,
+      2381
+    ],
+    "source_copy": "book20/images-print/cover-copy.txt",
+    "group": "mystery",
+    "kindle": null,
+    "paperback": null,
+    "status": "forthcoming"
+  }
+]

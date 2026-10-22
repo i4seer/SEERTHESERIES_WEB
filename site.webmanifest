@@ -1,0 +1,8 @@
+{
+  "name": "Seer Stories",
+  "short_name": "Seer Stories",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f5f0e6",
+  "theme_color": "#0c1921"
+}

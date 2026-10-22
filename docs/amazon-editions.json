@@ -1,0 +1,19 @@
+{
+  "verified_on": "2026-10-22",
+  "source": "The existing i4Seer standalone page and individual Amazon product pages, with format links followed from each product.",
+  "books": [
+    {
+      "title": "The River Run",
+      "kindle": "https://www.amazon.com/dp/B0HJVTL8ZJ",
+      "paperback": "https://www.amazon.com/dp/B0HJW5W21T",
+      "verification": "Kindle: Buy now with 1-Click; paperback: In Stock. Product titles match The River Run."
+    },
+    {
+      "title": "The County Fair",
+      "kindle": "https://www.amazon.com/dp/B0HKC7HDKW",
+      "paperback": "https://www.amazon.com/dp/B0HKDPV7PC",
+      "verification": "Kindle: Buy now with 1-Click; paperback: In Stock. Product titles match The County Fair."
+    }
+  ],
+  "availability_note": "These are the two published standalone titles on the source publisher page, also visible on B. Carter’s Amazon author page. Other books are presented as forthcoming until a published edition is verified. No invented prices, release dates, review scores, or purchase URLs are used."
+}
