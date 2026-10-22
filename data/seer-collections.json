@@ -1,0 +1,137 @@
+{
+  "current": "seer-stories",
+  "collections": [
+    {
+      "slug": "seer-worlds",
+      "name": "Seer Worlds",
+      "category": "Middle-grade fantasy",
+      "audience": "Curious readers · all ages welcome",
+      "tagline": "Different worlds. Same curious Dot.",
+      "description": "A small, glossy black traveler crosses impossible worlds, each governed by one rule everyone else has learned to accept. The Dot asks the questions others have stopped asking. Every book is a complete adventure, with a larger mystery beneath the crossings.",
+      "readerHook": "For curious readers who love impossible places and questions that change everything.",
+      "highlights": [
+        "Standalone adventures",
+        "One rule per world",
+        "A connected mystery"
+      ],
+      "image": "/assets/seer-collections/seer-worlds-20261022.webp",
+      "website": "https://seerworlds.com/",
+      "cta": "Explore Seer Worlds",
+      "press": "/press/#seer-worlds",
+      "alt": "A glossy black Dot beside a warmly lit stone dwelling above a river valley",
+      "width": 1983,
+      "height": 793,
+      "host": "seerworlds.com"
+    },
+    {
+      "slug": "journey",
+      "name": "Journey",
+      "category": "Middle-grade adventure",
+      "audience": "Ages 8+",
+      "tagline": "The map ended. The journey didn't.",
+      "description": "At ten, Sam Calder finds a mile marker beyond the end of the map. One road leads to forgotten towns, mountain crossings, and a larger network. Sam grows up a year at a time, learning that discovery is only the beginning of responsibility.",
+      "readerHook": "For readers who love maps, grounded adventure, and a hero who grows with the story.",
+      "highlights": [
+        "Read in order",
+        "One year per book",
+        "A growing map"
+      ],
+      "image": "/assets/seer-collections/journey-20261022.webp",
+      "website": "https://journey.i4seer.com/",
+      "cta": "Follow the Journey",
+      "press": "/press/#journey",
+      "alt": "A forest road winds toward distant hills beside a stone marker numbered 24",
+      "width": 1672,
+      "height": 940,
+      "host": "journey.i4seer.com"
+    },
+    {
+      "slug": "seer-frights",
+      "name": "Seer Frights",
+      "category": "Middle-grade horror",
+      "audience": "Ages 8+",
+      "tagline": "You should be scared.",
+      "description": "Ordinary kids run into bad rules, dangerous places, and everyday things that stop pretending to be harmless. The stories are standalone, fast-moving, creepy and funny—with real scares, real laughs, and no gore.",
+      "readerHook": "For readers who want fast chapters, real scares, and one more page before lights out.",
+      "highlights": [
+        "Standalone scares",
+        "Fast chapters",
+        "Creepy & funny"
+      ],
+      "image": "/assets/seer-collections/seer-frights-20261022.webp",
+      "website": "https://seerfrights.com/",
+      "cta": "Enter Seer Frights",
+      "press": "/press/#seer-frights",
+      "alt": "A lit cabin door beside a dark, mist-covered lake",
+      "width": 1983,
+      "height": 793,
+      "host": "seerfrights.com"
+    },
+    {
+      "slug": "seer-warns",
+      "name": "Seer Warns",
+      "category": "Adult literary horror",
+      "audience": "Adult",
+      "tagline": "You were warned.",
+      "description": "In Harmon, a stranger sits down across from ordinary people and calmly tells them the shape of what is coming. They believe the warning. They make the choice anyway. Each novel stands alone; the town, its people, and the consequences connect them.",
+      "readerHook": "For readers who want character-driven dread, small-town secrets, and difficult choices.",
+      "highlights": [
+        "Standalone novels",
+        "One shared town",
+        "Human consequences"
+      ],
+      "image": "/assets/seer-collections/seer-warns-20261022.webp",
+      "website": "https://seerwarns.com/",
+      "cta": "Enter Harmon",
+      "press": "/press/#seer-warns",
+      "alt": "A diner table overlooking Harmon town square at dusk",
+      "width": 1755,
+      "height": 896,
+      "host": "seerwarns.com"
+    },
+    {
+      "slug": "seer-fairies",
+      "name": "Seer Fairies",
+      "category": "Dark fae horror",
+      "audience": "Upper middle-grade · lower YA",
+      "tagline": "Every fairy is real. The rules were forgotten.",
+      "description": "Ancient fae followed their people across the sea. Generations later, the old bargains still bind—but the rules have been forgotten. The Seer follows the waking, one American town and one complete folklore mystery at a time.",
+      "readerHook": "For readers who want uneasy folklore, forgotten agreements, and field notes that make the familiar strange.",
+      "highlights": [
+        "Standalone case files",
+        "Dark folklore",
+        "Field notes in every book"
+      ],
+      "image": "/assets/seer-collections/seer-fairies-20261022.webp",
+      "website": "https://fairies.i4seer.com/",
+      "cta": "Meet the Seer",
+      "press": "/press/#seer-fairies",
+      "alt": "A lone black horse watches a woodland crossroads at twilight",
+      "width": 1672,
+      "height": 941,
+      "host": "fairies.i4seer.com"
+    },
+    {
+      "slug": "seer-stories",
+      "name": "Seer Stories",
+      "category": "Standalone fiction",
+      "audience": "Teen & adult",
+      "tagline": "Small details. Lasting consequences.",
+      "description": "A missing case. A letter that should never have arrived. A room that does not add up. Historical mysteries, suspense, quiet horror, and lives changed by the details people notice. Every novel introduces its own setting and cast.",
+      "readerHook": "For readers drawn to everyday mysteries, skilled work, and choices that stay with you.",
+      "highlights": [
+        "Complete standalone novels",
+        "Read in any order",
+        "Mystery, history & suspense"
+      ],
+      "website": "https://stories.i4seer.com/",
+      "cta": "Discover Seer Stories",
+      "image": "/assets/seer-collections/seer-stories-20261022.webp",
+      "alt": "A wooden boat and a lamplit boathouse beside a river at dusk",
+      "width": 1672,
+      "height": 941,
+      "press": "/press/#seer-stories",
+      "host": "stories.i4seer.com"
+    }
+  ]
+}

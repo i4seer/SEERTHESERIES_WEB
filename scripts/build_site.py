@@ -144,3 +144,7 @@ if base:
 save(ROOT/'site.webmanifest',json.dumps({'name':'Seer Stories','short_name':'Seer Stories','start_url':'/','display':'browser','background_color':'#f5f0e6','theme_color':'#0c1921'},indent=2)+'\n')
 save(ROOT/'.nojekyll','')
 print(f'Built {len(routes)+1} pages, with {len(books)} books and {len(available)} published titles. Base URL: {base or "not configured (local build)"}.')
+
+# Refresh shared Seer Press discovery.
+import runpy
+runpy.run_path(str(ROOT/'scripts/update_collections.py'),run_name='__main__')
