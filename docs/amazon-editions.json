@@ -1,6 +1,6 @@
 {
   "verified_on": "2026-10-22",
-  "source": "The existing i4Seer standalone page and individual Amazon product pages, with format links followed from each product.",
+  "source": "Existing verified editions for The River Run and The County Fair, plus five user-supplied Amazon product pages with their matching Kindle/paperback format selectors followed in the browser.",
   "books": [
     {
       "title": "The River Run",
@@ -13,7 +13,47 @@
       "kindle": "https://www.amazon.com/dp/B0HKC7HDKW",
       "paperback": "https://www.amazon.com/dp/B0HKDPV7PC",
       "verification": "Kindle: Buy now with 1-Click; paperback: In Stock. Product titles match The County Fair."
+    },
+    {
+      "title": "The Winter Mail",
+      "kindle": "https://www.amazon.com/dp/B0HKW9WCCT",
+      "paperback": "https://www.amazon.com/dp/B0HKVWV2BM",
+      "supplied_url": "https://www.amazon.com/dp/B0HKVWV2BM",
+      "verified_on": "2026-10-22",
+      "verification": "Opened the supplied Amazon product page, matched its title, and followed the visible format selector to the other edition. Kindle displayed Buy now with 1-Click; paperback displayed In Stock and Buy Now. No purchase performed."
+    },
+    {
+      "title": "The Flood Line",
+      "kindle": "https://www.amazon.com/dp/B0HLSS4GQW",
+      "paperback": "https://www.amazon.com/dp/B0HLSSG393",
+      "supplied_url": "https://www.amazon.com/dp/B0HLSSG393",
+      "verified_on": "2026-10-22",
+      "verification": "Opened the supplied Amazon product page, matched its title, and followed the visible format selector to the other edition. Kindle displayed Buy now with 1-Click; paperback displayed In Stock and Buy Now. No purchase performed."
+    },
+    {
+      "title": "The Locksmith",
+      "kindle": "https://www.amazon.com/dp/B0HLSYQP3W",
+      "paperback": "https://www.amazon.com/dp/B0HLT38716",
+      "supplied_url": "https://www.amazon.com/dp/B0HLT38716",
+      "verified_on": "2026-10-22",
+      "verification": "Opened the supplied Amazon product page, matched its title, and followed the visible format selector to the other edition. Kindle displayed Buy now with 1-Click; paperback displayed In Stock and Buy Now. No purchase performed."
+    },
+    {
+      "title": "The Night Clerk",
+      "kindle": "https://www.amazon.com/dp/B0HNDG9T75",
+      "paperback": "https://www.amazon.com/dp/B0HNTNMT79",
+      "supplied_url": "https://www.amazon.com/dp/B0HNTNMT79",
+      "verified_on": "2026-10-22",
+      "verification": "Opened the supplied Amazon product page, matched its title, and followed the visible format selector to the other edition. Kindle displayed Buy now with 1-Click; paperback displayed In Stock and Buy Now. No purchase performed."
+    },
+    {
+      "title": "The Inspection",
+      "kindle": "https://www.amazon.com/dp/B0H3G62Y88",
+      "paperback": "https://www.amazon.com/dp/B0HNWC4H3P",
+      "supplied_url": "https://www.amazon.com/dp/B0H3G62Y88",
+      "verified_on": "2026-10-22",
+      "verification": "Opened the supplied Amazon product page, matched its title, and followed the visible format selector to the other edition. Kindle displayed Buy now with 1-Click; paperback displayed In Stock and Buy Now. No purchase performed."
     }
   ],
-  "availability_note": "These are the two published standalone titles on the source publisher page, also visible on B. Carter’s Amazon author page. Other books are presented as forthcoming until a published edition is verified. No invented prices, release dates, review scores, or purchase URLs are used."
+  "availability_note": "Seven published novels have verified Kindle and paperback links. Other titles retain their existing review, outlined, or planned status. Kindle links open the Amazon eBook edition; no separate EPUB download or retailer URL was supplied or invented."
 }

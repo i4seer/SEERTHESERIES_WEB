@@ -88,9 +88,9 @@
     ],
     "source_copy": "book03/images-print/cover-copy.txt",
     "group": "historical",
-    "kindle": null,
-    "paperback": null,
-    "status": "review"
+    "kindle": "https://www.amazon.com/dp/B0HKW9WCCT",
+    "paperback": "https://www.amazon.com/dp/B0HKVWV2BM",
+    "status": "published"
   },
   {
     "number": 4,
@@ -119,9 +119,9 @@
     ],
     "source_copy": "book04/images-print/cover-copy.txt",
     "group": "historical",
-    "kindle": null,
-    "paperback": null,
-    "status": "review"
+    "kindle": "https://www.amazon.com/dp/B0HLSS4GQW",
+    "paperback": "https://www.amazon.com/dp/B0HLSSG393",
+    "status": "published"
   },
   {
     "number": 5,
@@ -150,9 +150,9 @@
     ],
     "source_copy": "book05/images-print/cover-copy.txt",
     "group": "mystery",
-    "kindle": null,
-    "paperback": null,
-    "status": "review"
+    "kindle": "https://www.amazon.com/dp/B0HLSYQP3W",
+    "paperback": "https://www.amazon.com/dp/B0HLT38716",
+    "status": "published"
   },
   {
     "number": 6,
@@ -181,9 +181,9 @@
     ],
     "source_copy": "book06/images-print/cover-copy.txt",
     "group": "mystery",
-    "kindle": null,
-    "paperback": null,
-    "status": "review"
+    "kindle": "https://www.amazon.com/dp/B0HNDG9T75",
+    "paperback": "https://www.amazon.com/dp/B0HNTNMT79",
+    "status": "published"
   },
   {
     "number": 7,
@@ -212,9 +212,9 @@
     ],
     "source_copy": "book07/images-print/cover-copy.txt",
     "group": "quiet-horror",
-    "kindle": null,
-    "paperback": null,
-    "status": "review"
+    "kindle": "https://www.amazon.com/dp/B0H3G62Y88",
+    "paperback": "https://www.amazon.com/dp/B0HNWC4H3P",
+    "status": "published"
   },
   {
     "number": 8,
