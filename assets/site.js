@@ -25,7 +25,7 @@
     const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
     let shown = 0;
     cards.forEach(card => {
-      const match = terms.every(term => normalize(card.dataset.search).includes(term)) && (!genre.value || card.dataset.genre === genre.value) && (!status.value || card.dataset.status === status.value);
+      const match = terms.every(term => normalize(card.dataset.search).includes(term)) && (!genre.value || card.dataset.genre === genre.value) && (!status.value || (status.value === 'forthcoming' ? card.dataset.status !== 'published' : card.dataset.status === status.value));
       card.hidden = !match;
       if (match) shown++;
     });
