@@ -17,11 +17,14 @@ def update():
     assert len(others)==5 and len({s['website'] for s in others})==5
     host='https://'+(ROOT/'CNAME').read_text().strip()
     def version(path):return path+'?v='+hashlib.sha256((ROOT/path.lstrip('/')).read_bytes()).hexdigest()[:12]
+    def cover_thumb(s):
+        if not s.get('cover'):return ''
+        return f'<img class="sc-cover" src="{version(s["cover"])}" width="{s["cover_width"]}" height="{s["cover_height"]}" alt="{e(s["cover_title"])} — {e(s["name"])} cover" loading="lazy" decoding="async">'
     def cards(full=False):
         result=[]
         for s in others:
             copy=s['description'] if full else s['tagline']
-            result.append(f'<article class="sc-card"><a class="sc-art" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Explore {e(s["name"])}"><img src="{version(s["image"])}" width="{s["width"]}" height="{s["height"]}" alt="{e(s["alt"])}" loading="lazy" decoding="async"></a><div class="sc-card-body"><p class="sc-genre">{e(s["category"])}</p><h3 class="sc-title"><a href="{s["website"]}" target="_blank" rel="noopener">{e(s["name"])}</a></h3>'+('<p class="sc-tagline">'+e(s['tagline'])+'</p>' if full else '')+f'<p class="sc-description">{e(copy)}</p>'+('<p class="sc-audience">'+e(s['audience'])+'</p>' if full else '')+f'<a class="sc-explore" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Visit {e(s["name"])} website">Explore collection <span aria-hidden="true">↗</span></a></div></article>')
+            result.append(f'<article class="sc-card"><a class="sc-art" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Explore {e(s["name"])}"><img src="{version(s["image"])}" width="{s["width"]}" height="{s["height"]}" alt="{e(s["alt"])}" loading="lazy" decoding="async">{cover_thumb(s)}</a><div class="sc-card-body"><p class="sc-genre">{e(s["category"])}</p><h3 class="sc-title"><a href="{s["website"]}" target="_blank" rel="noopener">{e(s["name"])}</a></h3>'+('<p class="sc-tagline">'+e(s['tagline'])+'</p>' if full else '')+f'<p class="sc-description">{e(copy)}</p>'+('<p class="sc-audience">'+e(s['audience'])+'</p>' if full else '')+f'<a class="sc-explore" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Visit {e(s["name"])} website">Explore collection <span aria-hidden="true">↗</span></a></div></article>')
         return '<div class="sc-grid">'+''.join(result)+'</div>'
     theme=' sc-theme-'+current['slug']
     preview=START+f'<section class="seer-discovery sc-preview{theme}" aria-labelledby="sc-discovery-title"><div class="sc-shell"><div class="sc-top"><div><p class="sc-eyebrow">Beyond {e(current["name"])}</p><h2 class="sc-heading" id="sc-discovery-title">More stories from B. Carter</h2></div><a class="sc-all" href="/other-series/">View all other collections →</a></div>'+cards()+'<p class="sc-publisher">Six collections. Many places to begin. <a href="https://www.i4seer.com/series/" target="_blank" rel="noopener">Explore Seer Press ↗</a></p></div></section>'+END
@@ -46,6 +49,7 @@ def update():
         assert count==1,('Expected one cross-collection footer',ROOT)
         return raw[:match.start()]+footer+raw[match.end():]
     def apply(raw,preview_page=False):
+        if current['slug']=='journey':raw=raw.replace('https://seerjourneys.com',host)
         raw=re.sub(r'<link\b[^>]*data-seer-collections[^>]*>','',raw)
         raw=raw.replace('</head>',css_tag+'</head>')
         raw=re.sub(re.escape(START)+r'.*?'+re.escape(END),preview,raw,flags=re.S)

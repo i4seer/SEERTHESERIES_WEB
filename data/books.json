@@ -5,8 +5,8 @@
     "slug": "the-river-run",
     "cover": "/assets/covers/the-river-run.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Missing Case. A Missing Man. One Family's Truth.",
@@ -17,18 +17,15 @@
       "BACK CLOSING": "Some loads have to be counted twice."
     },
     "pages": 152,
-    "source_art": "book01/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1664,
-      38,
-      3182,
-      2381
-    ],
+    "source_art": "book01/images-print/cover-front.png",
     "source_copy": "book01/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": "https://www.amazon.com/dp/B0HJVTL8ZJ",
     "paperback": "https://www.amazon.com/dp/B0HJW5W21T",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-river-run.webp",
+    "accent": "#d97839",
+    "cover_font": "slab"
   },
   {
     "number": 2,
@@ -36,8 +33,8 @@
     "slug": "the-county-fair",
     "cover": "/assets/covers/the-county-fair.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Traveling Midway. A Summer Romance. A Choice Between Leaving and Staying.",
@@ -48,18 +45,15 @@
       "BACK CLOSING": "Leaving is easy. Choosing is the hard part."
     },
     "pages": 156,
-    "source_art": "book02/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1666,
-      38,
-      3184,
-      2381
-    ],
+    "source_art": "book02/images-print/cover-front.png",
     "source_copy": "book02/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": "https://www.amazon.com/dp/B0HKC7HDKW",
     "paperback": "https://www.amazon.com/dp/B0HKDPV7PC",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-county-fair.webp",
+    "accent": "#942f24",
+    "cover_font": "slab"
   },
   {
     "number": 3,
@@ -67,8 +61,8 @@
     "slug": "the-winter-mail",
     "cover": "/assets/covers/the-winter-mail.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Lost Letter. A Woman Presumed Dead. A Secret He Has No Right to Open.",
@@ -79,18 +73,15 @@
       "BACK CLOSING": "The route gives him every clue. It gives him no permission."
     },
     "pages": 127,
-    "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1646,
-      38,
-      3164,
-      2381
-    ],
+    "source_art": "book03/images-print/cover-front.png",
     "source_copy": "book03/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": "https://www.amazon.com/dp/B0HKW9WCCT",
     "paperback": "https://www.amazon.com/dp/B0HKVWV2BM",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-winter-mail.webp",
+    "accent": "#8e372d",
+    "cover_font": "serif"
   },
   {
     "number": 4,
@@ -98,8 +89,8 @@
     "slug": "the-flood-line",
     "cover": "/assets/covers/the-flood-line.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A City Underwater. Two Homes in Danger. One Choice That Cannot Be Undone.",
@@ -110,18 +101,15 @@
       "BACK CLOSING": "The river will fall. What he owes will remain."
     },
     "pages": 156,
-    "source_art": "book04/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1666,
-      38,
-      3184,
-      2381
-    ],
+    "source_art": "book04/images-print/cover-front.png",
     "source_copy": "book04/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": "https://www.amazon.com/dp/B0HLSS4GQW",
     "paperback": "https://www.amazon.com/dp/B0HLSSG393",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-flood-line.webp",
+    "accent": "#e18f4f",
+    "cover_font": "slab"
   },
   {
     "number": 5,
@@ -129,8 +117,8 @@
     "slug": "the-locksmith",
     "cover": "/assets/covers/the-locksmith.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Two Unauthorized Rekeys. One Familiar Method. Access No One Had the Right to Use.",
@@ -141,18 +129,15 @@
       "BACK CLOSING": "The lock did not fail. The permission did."
     },
     "pages": 167,
-    "source_art": "book05/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1674,
-      38,
-      3192,
-      2381
-    ],
+    "source_art": "book05/images-print/cover-front.png",
     "source_copy": "book05/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": "https://www.amazon.com/dp/B0HLSYQP3W",
     "paperback": "https://www.amazon.com/dp/B0HLT38716",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-locksmith.webp",
+    "accent": "#dca94d",
+    "cover_font": "slab"
   },
   {
     "number": 6,
@@ -160,8 +145,8 @@
     "slug": "the-night-clerk",
     "cover": "/assets/covers/the-night-clerk.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A False Name. A Warm Engine. A Guest Who Is Not Who He Claims.",
@@ -172,18 +157,15 @@
       "BACK CLOSING": "The room was empty. The record was not."
     },
     "pages": 165,
-    "source_art": "book06/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1673,
-      38,
-      3191,
-      2381
-    ],
+    "source_art": "book06/images-print/cover-front.png",
     "source_copy": "book06/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": "https://www.amazon.com/dp/B0HNDG9T75",
     "paperback": "https://www.amazon.com/dp/B0HNTNMT79",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-night-clerk.webp",
+    "accent": "#e98368",
+    "cover_font": "condensed"
   },
   {
     "number": 7,
@@ -191,8 +173,8 @@
     "slug": "the-inspection",
     "cover": "/assets/covers/the-inspection.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Twenty-Four Units. A Door Marked Twenty-Five. Measurements That Refuse to Agree.",
@@ -203,18 +185,15 @@
       "BACK CLOSING": "A person matters more than the plan."
     },
     "pages": 134,
-    "source_art": "book07/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1651,
-      38,
-      3169,
-      2381
-    ],
+    "source_art": "book07/images-print/cover-front.png",
     "source_copy": "book07/images-print/cover-copy.txt",
     "group": "quiet-horror",
     "kindle": "https://www.amazon.com/dp/B0H3G62Y88",
     "paperback": "https://www.amazon.com/dp/B0HNWC4H3P",
-    "status": "published"
+    "status": "published",
+    "artwork": "/assets/scenes/the-inspection.webp",
+    "accent": "#7b581b",
+    "cover_font": "condensed"
   },
   {
     "number": 8,
@@ -222,8 +201,8 @@
     "slug": "the-jury-room",
     "cover": "/assets/covers/the-jury-room.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Locked Cabinet. A Blank Access Log. An Exhibit That Keeps Moving.",
@@ -234,18 +213,15 @@
       "BACK CLOSING": "What isn't recorded can still change everything."
     },
     "pages": 126,
-    "source_art": "book08/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1645,
-      38,
-      3163,
-      2381
-    ],
+    "source_art": "book08/images-print/cover-front.png",
     "source_copy": "book08/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "review"
+    "status": "review",
+    "artwork": "/assets/scenes/the-jury-room.webp",
+    "accent": "#dd9375",
+    "cover_font": "serif"
   },
   {
     "number": 9,
@@ -253,8 +229,8 @@
     "slug": "the-last-inventory",
     "cover": "/assets/covers/the-last-inventory.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Factory Closing. Equipment That Never Existed. A Man Still Drawing Pay.",
@@ -265,18 +241,15 @@
       "BACK CLOSING": "The truth begins with what never arrived."
     },
     "pages": 129,
-    "source_art": "book09/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1647,
-      38,
-      3165,
-      2381
-    ],
+    "source_art": "book09/images-print/cover-front.png",
     "source_copy": "book09/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-last-inventory.webp",
+    "accent": "#dab152",
+    "cover_font": "condensed"
   },
   {
     "number": 10,
@@ -284,8 +257,8 @@
     "slug": "the-estate-sale",
     "cover": "/assets/covers/the-estate-sale.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A House Full of Belongings. A Family's Story. Proof Someone Else Lived There.",
@@ -296,18 +269,15 @@
       "BACK CLOSING": "Seeing the truth does not make it yours."
     },
     "pages": 130,
-    "source_art": "book10/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1648,
-      38,
-      3166,
-      2381
-    ],
+    "source_art": "book10/images-print/cover-front.png",
     "source_copy": "book10/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-estate-sale.webp",
+    "accent": "#7d403c",
+    "cover_font": "soft"
   },
   {
     "number": 11,
@@ -315,8 +285,8 @@
     "slug": "the-third-shift",
     "cover": "/assets/covers/the-third-shift.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Machine Running Off the Books. Valid Labels. Parts With No Destination.",
@@ -327,18 +297,15 @@
       "BACK CLOSING": "The truth has to survive the handoff."
     },
     "pages": 136,
-    "source_art": "book11/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1652,
-      38,
-      3170,
-      2381
-    ],
+    "source_art": "book11/images-print/cover-front.png",
     "source_copy": "book11/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-third-shift.webp",
+    "accent": "#8bc5a7",
+    "cover_font": "condensed"
   },
   {
     "number": 12,
@@ -346,8 +313,8 @@
     "slug": "the-closing-crew",
     "cover": "/assets/covers/the-closing-crew.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "One Final Sale. One Forgotten Locker. Eleven Years of Impossible Paychecks.",
@@ -358,18 +325,15 @@
       "BACK CLOSING": "Some things can be cleared. Others must be named correctly."
     },
     "pages": 193,
-    "source_art": "book12/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1693,
-      38,
-      3211,
-      2381
-    ],
+    "source_art": "book12/images-print/cover-front.png",
     "source_copy": "book12/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-closing-crew.webp",
+    "accent": "#e17f6d",
+    "cover_font": "slab"
   },
   {
     "number": 13,
@@ -377,8 +341,8 @@
     "slug": "the-tow-yard",
     "cover": "/assets/covers/the-tow-yard.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Routine Accident. A Damaged Car. A Report That Does Not Match.",
@@ -389,18 +353,15 @@
       "BACK CLOSING": "Metal records the impact. It does not name the hands on the wheel."
     },
     "pages": 187,
-    "source_art": "book13/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1688,
-      38,
-      3206,
-      2381
-    ],
+    "source_art": "book13/images-print/cover-front.png",
     "source_copy": "book13/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-tow-yard.webp",
+    "accent": "#e9a74f",
+    "cover_font": "condensed"
   },
   {
     "number": 14,
@@ -408,8 +369,8 @@
     "slug": "the-house-measure",
     "cover": "/assets/covers/the-house-measure.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Six Missing Feet. One Sealed Wall. A House That Refuses to Add Up.",
@@ -420,18 +381,15 @@
       "BACK CLOSING": "A question can be real without becoming permission."
     },
     "pages": 189,
-    "source_art": "book14/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1690,
-      38,
-      3208,
-      2381
-    ],
+    "source_art": "book14/images-print/cover-front.png",
     "source_copy": "book14/images-print/cover-copy.txt",
     "group": "quiet-horror",
     "kindle": null,
     "paperback": null,
-    "status": "outlined"
+    "status": "outlined",
+    "artwork": "/assets/scenes/the-house-measure.webp",
+    "accent": "#7e4b35",
+    "cover_font": "serif"
   },
   {
     "number": 15,
@@ -439,8 +397,8 @@
     "slug": "the-power-cut",
     "cover": "/assets/covers/the-power-cut.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Extreme Heat. An Automated Grid. A Pattern Nobody Ordered.",
@@ -451,18 +409,15 @@
       "BACK CLOSING": "Power is not restored until the house agrees."
     },
     "pages": 194,
-    "source_art": "book15/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1693,
-      38,
-      3211,
-      2381
-    ],
+    "source_art": "book15/images-print/cover-front.png",
     "source_copy": "book15/images-print/cover-copy.txt",
     "group": "near-future",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-power-cut.webp",
+    "accent": "#234469",
+    "cover_font": "condensed"
   },
   {
     "number": 16,
@@ -470,8 +425,8 @@
     "slug": "the-dead-letter-office",
     "cover": "/assets/covers/the-dead-letter-office.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Undeliverable Letters. People Who Do Not Exist. Real Events Hidden Inside.",
@@ -482,18 +437,15 @@
       "BACK CLOSING": "A letter is not yours because you know what it says."
     },
     "pages": 182,
-    "source_art": "book16/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1685,
-      38,
-      3203,
-      2381
-    ],
+    "source_art": "book16/images-print/cover-front.png",
     "source_copy": "book16/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-dead-letter-office.webp",
+    "accent": "#e09973",
+    "cover_font": "serif"
   },
   {
     "number": 17,
@@ -501,8 +453,8 @@
     "slug": "the-burial-ledger",
     "cover": "/assets/covers/the-burial-ledger.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Highway Coming Through. Graves That Do Not Match. Names the City Counted Wrong.",
@@ -513,18 +465,15 @@
       "BACK CLOSING": "An honest blank is better than the wrong name."
     },
     "pages": 193,
-    "source_art": "book17/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1693,
-      38,
-      3211,
-      2381
-    ],
+    "source_art": "book17/images-print/cover-front.png",
     "source_copy": "book17/images-print/cover-copy.txt",
     "group": "historical",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-burial-ledger.webp",
+    "accent": "#3e4a2a",
+    "cover_font": "serif"
   },
   {
     "number": 18,
@@ -532,8 +481,8 @@
     "slug": "the-returns-center",
     "cover": "/assets/covers/the-returns-center.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "Thousands of Returned Appliances. One Serial Number Used Again. A Fire Waiting to Ship.",
@@ -544,18 +493,15 @@
       "BACK CLOSING": "A closed record cannot make a dangerous object safe."
     },
     "pages": 183,
-    "source_art": "book18/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1686,
-      38,
-      3204,
-      2381
-    ],
+    "source_art": "book18/images-print/cover-front.png",
     "source_copy": "book18/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-returns-center.webp",
+    "accent": "#e7896c",
+    "cover_font": "condensed"
   },
   {
     "number": 19,
@@ -563,8 +509,8 @@
     "slug": "the-last-line",
     "cover": "/assets/covers/the-last-line.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Disconnected Number. A Demolished Street. Trouble Calls That Keep Getting Through.",
@@ -575,18 +521,15 @@
       "BACK CLOSING": "The dead line wants an answer. The living caller cannot wait."
     },
     "pages": 196,
-    "source_art": "book19/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1695,
-      38,
-      3213,
-      2381
-    ],
+    "source_art": "book19/images-print/cover-front.png",
     "source_copy": "book19/images-print/cover-copy.txt",
     "group": "quiet-horror",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-last-line.webp",
+    "accent": "#d59b6c",
+    "cover_font": "condensed"
   },
   {
     "number": 20,
@@ -594,8 +537,8 @@
     "slug": "the-sterile-tray",
     "cover": "/assets/covers/the-sterile-tray.webp",
     "size": [
-      900,
-      1389
+      1280,
+      2048
     ],
     "copy": {
       "FRONT TAGLINE": "A Canceled Operation. A Used Instrument Tray. Patients the Hospital Says Were Never There.",
@@ -606,17 +549,14 @@
       "BACK CLOSING": "A clean tray can hide a contaminated record."
     },
     "pages": 193,
-    "source_art": "book20/images-print/cover-print-ready-no-barcode.png",
-    "source_crop": [
-      1693,
-      38,
-      3211,
-      2381
-    ],
+    "source_art": "book20/images-print/cover-front.png",
     "source_copy": "book20/images-print/cover-copy.txt",
     "group": "mystery",
     "kindle": null,
     "paperback": null,
-    "status": "planned"
+    "status": "planned",
+    "artwork": "/assets/scenes/the-sterile-tray.webp",
+    "accent": "#9bc8d2",
+    "cover_font": "condensed"
   }
 ]

@@ -2,8 +2,8 @@
   "name": "Seer Stories",
   "author": "B. Carter",
   "publisher": "Seer Press",
-  "base_url": "",
-  "updated": "2026-10-22",
+  "base_url": "https://stories.i4seer.com",
+  "updated": "2026-10-26",
   "groups": {
     "historical": "Historical & coming-of-age",
     "mystery": "Mystery & suspense",

@@ -17,23 +17,8 @@ def save(path, text):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding='utf-8', newline='\n')
 if args.source:
-    from PIL import Image
-    for b in books:
-        directory=args.source/f'book{b["number"]:02}'
-        art=directory/'images-print/cover-print-ready-no-barcode.png'
-        meta=json.loads((directory/'build-metadata.json').read_text(encoding='utf-8'))['print']
-        image=Image.open(art).convert('RGB'); dpi=meta['dpi']
-        assert image.size==(meta['cover_width_px'],meta['cover_height_px'])
-        panel=round((meta['trim_width_in']+meta['bleed_in'])*dpi)
-        left=image.width-panel; top=round(meta['bleed_in']*dpi)
-        crop=(left,top,left+round(meta['trim_width_in']*dpi),top+round(meta['trim_height_in']*dpi))
-        front=image.crop(crop); size=(900,round(front.height*900/front.width))
-        front.resize(size,Image.Resampling.LANCZOS).save(ROOT/b['cover'].lstrip('/'),'WEBP',quality=89,method=6)
-        front.save(ROOT/'assets/covers'/f'{b["slug"]}.jpg',quality=92,optimize=True)
-        copy_path=directory/'images-print/cover-copy.txt'
-        b['copy']=dict((key.strip(),value.strip()) for key,value in re.findall(r'## ([^\n]+)\n(.*?)(?=\n## |\Z)',copy_path.read_text(encoding='utf-8'),re.S))
-        b['size']=size; b['source_crop']=crop; b['pages']=meta['pages']
-    save(ROOT/'data/books.json',json.dumps(books,ensure_ascii=False,indent=2)+'\n')
+    from sync_stories_artwork import export
+    books=export(args.source)
 
 groups=config['groups']; base=config['base_url'].rstrip('/'); routes=[]
 status_labels={'published':'Available now','review':'In review','outlined':'Outlined','planned':'Planned','forthcoming':'Forthcoming'}
@@ -154,3 +139,7 @@ print(f'Built {len(routes)+1} pages, with {len(books)} books and {len(available)
 # Refresh shared Seer Press discovery.
 import runpy
 runpy.run_path(str(ROOT/'scripts/update_collections.py'),run_name='__main__')
+
+# Keep the approved cover artwork theme and publication shelves on every build.
+from sync_stories_artwork import refresh_pages
+refresh_pages()

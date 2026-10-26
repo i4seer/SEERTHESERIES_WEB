@@ -14,21 +14,25 @@
         "One rule per world",
         "A connected mystery"
       ],
-      "image": "/assets/seer-collections/seer-worlds-20261022.webp",
+      "image": "/assets/seer-collections/seer-worlds-20261026.webp",
       "website": "https://seerworlds.com/",
       "cta": "Explore Seer Worlds",
       "press": "/press/#seer-worlds",
-      "alt": "A glossy black Dot beside a warmly lit stone dwelling above a river valley",
-      "width": 1983,
-      "height": 793,
-      "host": "seerworlds.com"
+      "alt": "A white cliff city above blue trees and a sunlit sea, from the Distance cover artwork",
+      "width": 1920,
+      "height": 1080,
+      "host": "seerworlds.com",
+      "cover": "/assets/seer-collections/covers/seer-worlds.webp",
+      "cover_width": 400,
+      "cover_height": 640,
+      "cover_title": "Distance"
     },
     {
       "slug": "journey",
       "name": "Journey",
       "category": "Middle-grade adventure",
       "audience": "Ages 8+",
-      "tagline": "The map ended. The journey didn't.",
+      "tagline": "The road did not end.",
       "description": "At ten, Sam Calder finds a mile marker beyond the end of the map. One road leads to forgotten towns, mountain crossings, and a larger network. Sam grows up a year at a time, learning that discovery is only the beginning of responsibility.",
       "readerHook": "For readers who love maps, grounded adventure, and a hero who grows with the story.",
       "highlights": [
@@ -36,14 +40,18 @@
         "One year per book",
         "A growing map"
       ],
-      "image": "/assets/seer-collections/journey-20261022.webp",
+      "image": "/assets/seer-collections/journey-20261026.webp",
       "website": "https://journey.i4seer.com/",
       "cta": "Follow the Journey",
       "press": "/press/#journey",
-      "alt": "A forest road winds toward distant hills beside a stone marker numbered 24",
-      "width": 1672,
-      "height": 940,
-      "host": "journey.i4seer.com"
+      "alt": "A forest road at sunset beside a stone mile marker numbered 24",
+      "width": 1600,
+      "height": 1000,
+      "host": "journey.i4seer.com",
+      "cover": "/assets/seer-collections/covers/journey.webp",
+      "cover_width": 400,
+      "cover_height": 640,
+      "cover_title": "Mile Twenty-Four"
     },
     {
       "slug": "seer-frights",
@@ -58,14 +66,18 @@
         "Fast chapters",
         "Creepy & funny"
       ],
-      "image": "/assets/seer-collections/seer-frights-20261022.webp",
+      "image": "/assets/seer-collections/seer-frights-20261026.webp",
       "website": "https://seerfrights.com/",
       "cta": "Enter Seer Frights",
       "press": "/press/#seer-frights",
-      "alt": "A lit cabin door beside a dark, mist-covered lake",
-      "width": 1983,
-      "height": 793,
-      "host": "seerfrights.com"
+      "alt": "Lantern light among the dark trees of the swamp, from the current Seer Frights artwork",
+      "width": 1920,
+      "height": 1080,
+      "host": "seerfrights.com",
+      "cover": "/assets/seer-collections/covers/seer-frights.webp",
+      "cover_width": 400,
+      "cover_height": 640,
+      "cover_title": "Don’t Go into the Swamp"
     },
     {
       "slug": "seer-warns",
@@ -80,14 +92,18 @@
         "One shared town",
         "Human consequences"
       ],
-      "image": "/assets/seer-collections/seer-warns-20261022.webp",
+      "image": "/assets/seer-collections/seer-warns-20261026.webp",
       "website": "https://seerwarns.com/",
       "cta": "Enter Harmon",
       "press": "/press/#seer-warns",
-      "alt": "A diner table overlooking Harmon town square at dusk",
+      "alt": "Two plates and an unfinished document on a dark kitchen table, from The Good Father cover artwork",
       "width": 1755,
       "height": 896,
-      "host": "seerwarns.com"
+      "host": "seerwarns.com",
+      "cover": "/assets/seer-collections/covers/seer-warns.webp",
+      "cover_width": 400,
+      "cover_height": 640,
+      "cover_title": "The Good Father"
     },
     {
       "slug": "seer-fairies",
@@ -102,14 +118,18 @@
         "Dark folklore",
         "Field notes in every book"
       ],
-      "image": "/assets/seer-collections/seer-fairies-20261022.webp",
+      "image": "/assets/seer-collections/seer-fairies-20261026.webp",
       "website": "https://fairies.i4seer.com/",
       "cta": "Meet the Seer",
       "press": "/press/#seer-fairies",
-      "alt": "A lone black horse watches a woodland crossroads at twilight",
-      "width": 1672,
-      "height": 941,
-      "host": "fairies.i4seer.com"
+      "alt": "An engraved folklore scene at an uneasy country crossroads, from The Púca artwork",
+      "width": 1920,
+      "height": 1080,
+      "host": "fairies.i4seer.com",
+      "cover": "/assets/seer-collections/covers/seer-fairies.webp",
+      "cover_width": 400,
+      "cover_height": 617,
+      "cover_title": "The Púca"
     },
     {
       "slug": "seer-stories",
@@ -126,12 +146,16 @@
       ],
       "website": "https://stories.i4seer.com/",
       "cta": "Discover Seer Stories",
-      "image": "/assets/seer-collections/seer-stories-20261022.webp",
-      "alt": "A wooden boat and a lamplit boathouse beside a river at dusk",
-      "width": 1672,
-      "height": 941,
+      "image": "/assets/seer-collections/seer-stories-20261026.webp",
+      "alt": "A river runner in a wooden boat at a copper sunset, from The River Run cover artwork",
+      "width": 1600,
+      "height": 1000,
       "press": "/press/#seer-stories",
-      "host": "stories.i4seer.com"
+      "host": "stories.i4seer.com",
+      "cover": "/assets/seer-collections/covers/seer-stories.webp",
+      "cover_width": 400,
+      "cover_height": 640,
+      "cover_title": "The River Run"
     }
   ]
 }

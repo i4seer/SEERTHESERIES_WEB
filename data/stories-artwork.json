@@ -1,0 +1,325 @@
+{
+  "source": "C:\\SEERTheSeries",
+  "books": [
+    {
+      "number": 1,
+      "slug": "the-river-run",
+      "cover": "/assets/covers/the-river-run.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-river-run.webp",
+      "source_cover": "book01/images-print/cover-front.png",
+      "source_cover_sha256": "94daee924f484e4c62b5b6668d334b0d870e8b17cd6f60b0ec419373f790a95b",
+      "source_art": "book01/images-print/background-concept-03-master.png",
+      "source_art_sha256": "3b6646734a6d380ccfcca7cba03668b154340beb5f40e2ecd04f4c321bdbabe2",
+      "accent": "#d97839",
+      "font": "slab"
+    },
+    {
+      "number": 2,
+      "slug": "the-county-fair",
+      "cover": "/assets/covers/the-county-fair.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-county-fair.webp",
+      "source_cover": "book02/images-print/cover-front.png",
+      "source_cover_sha256": "100c6a1a9d7c89ed647f87e75ef8dfd4310d1e8679f45d18b3435c9d4bfac489",
+      "source_art": "book02/images-print/background-concept-03-master.png",
+      "source_art_sha256": "2dd3bf825d6561618a50af2c54018e399152495510cc81708fa41adec8d7bc6f",
+      "accent": "#942f24",
+      "font": "slab"
+    },
+    {
+      "number": 3,
+      "slug": "the-winter-mail",
+      "cover": "/assets/covers/the-winter-mail.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-winter-mail.webp",
+      "source_cover": "book03/images-print/cover-front.png",
+      "source_cover_sha256": "7c1eb41a1992d61f9e0c99c10837d82da7aa237758df8b4da73de9f66dbb94f4",
+      "source_art": "book03/images-print/background-concept-03-master.png",
+      "source_art_sha256": "6e54b2034da15a6bc5cb451b72bf280fa94f1d9f02f2bfbdf4f664de016341e0",
+      "accent": "#8e372d",
+      "font": "serif"
+    },
+    {
+      "number": 4,
+      "slug": "the-flood-line",
+      "cover": "/assets/covers/the-flood-line.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-flood-line.webp",
+      "source_cover": "book04/images-print/cover-front.png",
+      "source_cover_sha256": "1ec0bf8ce40697b0733469b6565feb3a3190549ec01fbf998cddcfbefcc9d6e9",
+      "source_art": "book04/images-print/background-concept-03-master.png",
+      "source_art_sha256": "27be51f5613b2a0fe8cddff55ec18e26d4829990864ce3df074163373055e36c",
+      "accent": "#e18f4f",
+      "font": "slab"
+    },
+    {
+      "number": 5,
+      "slug": "the-locksmith",
+      "cover": "/assets/covers/the-locksmith.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-locksmith.webp",
+      "source_cover": "book05/images-print/cover-front.png",
+      "source_cover_sha256": "cb0f676d52588b0b9585eba74c86f13c01124aabc230d916c995f38c5cf5b5fa",
+      "source_art": "book05/images-print/background-concept-03-master.png",
+      "source_art_sha256": "b2451605f9902fd705a961a0069e6e907a0ad8abe9305d6edcc5538183878f48",
+      "accent": "#dca94d",
+      "font": "slab"
+    },
+    {
+      "number": 6,
+      "slug": "the-night-clerk",
+      "cover": "/assets/covers/the-night-clerk.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-night-clerk.webp",
+      "source_cover": "book06/images-print/cover-front.png",
+      "source_cover_sha256": "8aaec08132be91c10a3336246a579d3e2352bd0318405eb8fd9bfe608b4ff9e2",
+      "source_art": "book06/images-print/background-concept-03-master.png",
+      "source_art_sha256": "42c1bb36670e303af9c7840813ec9c34dea75c84603b20d2451e5dee1394e2f3",
+      "accent": "#e98368",
+      "font": "condensed"
+    },
+    {
+      "number": 7,
+      "slug": "the-inspection",
+      "cover": "/assets/covers/the-inspection.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-inspection.webp",
+      "source_cover": "book07/images-print/cover-front.png",
+      "source_cover_sha256": "c20f5cf37376bc8759e15704cb2f5dc4084d20c65cbb8a72d063d1ac71c9abaa",
+      "source_art": "book07/images-print/background-concept-03-master.png",
+      "source_art_sha256": "d52453640392069ea2a2dd40d89f552db48b457425d74613967025d213a23f37",
+      "accent": "#7b581b",
+      "font": "condensed"
+    },
+    {
+      "number": 8,
+      "slug": "the-jury-room",
+      "cover": "/assets/covers/the-jury-room.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-jury-room.webp",
+      "source_cover": "book08/images-print/cover-front.png",
+      "source_cover_sha256": "c733cbfa61d56617360eb7c4e1d9e5ca5d4212889bc527493c0e207e92710a10",
+      "source_art": "book08/images-print/background-concept-03-master.png",
+      "source_art_sha256": "2f5a868907811e2448b7f476aeb5c4e85fb90f731b8b398c4198f194bfc86045",
+      "accent": "#dd9375",
+      "font": "serif"
+    },
+    {
+      "number": 9,
+      "slug": "the-last-inventory",
+      "cover": "/assets/covers/the-last-inventory.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-last-inventory.webp",
+      "source_cover": "book09/images-print/cover-front.png",
+      "source_cover_sha256": "6e8818c716d5851c704367c9d66ba10962bb543e8c89c6fb1282c8fb62f3f8f0",
+      "source_art": "book09/images-print/background-concept-03-master.png",
+      "source_art_sha256": "70adea7efe1b1220d17ad2d02bf057995041d57933cc7c7a4b0fa9c265ec0630",
+      "accent": "#dab152",
+      "font": "condensed"
+    },
+    {
+      "number": 10,
+      "slug": "the-estate-sale",
+      "cover": "/assets/covers/the-estate-sale.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-estate-sale.webp",
+      "source_cover": "book10/images-print/cover-front.png",
+      "source_cover_sha256": "bad6a96da29850558d2ac651cc1522e7b83604cdd4da099ae400049f61abe664",
+      "source_art": "book10/images-print/background-concept-03-master.png",
+      "source_art_sha256": "03acf9e583e07474cab94c9bc7d210fdb733c27091ef6dbd2eefdf4fc44a74d4",
+      "accent": "#7d403c",
+      "font": "soft"
+    },
+    {
+      "number": 11,
+      "slug": "the-third-shift",
+      "cover": "/assets/covers/the-third-shift.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-third-shift.webp",
+      "source_cover": "book11/images-print/cover-front.png",
+      "source_cover_sha256": "78fa62fae2dcbfe73a9ebbe98765a8be39d8016077d0fa30b27bac90eecc8c9a",
+      "source_art": "book11/images-print/background-concept-03-master.png",
+      "source_art_sha256": "eb0b4b9da53f3ee33e53064cd29b8bb62dbd51e64c2311b60aed9960caa0bc5f",
+      "accent": "#8bc5a7",
+      "font": "condensed"
+    },
+    {
+      "number": 12,
+      "slug": "the-closing-crew",
+      "cover": "/assets/covers/the-closing-crew.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-closing-crew.webp",
+      "source_cover": "book12/images-print/cover-front.png",
+      "source_cover_sha256": "13585901ab7bfce870b7f78d6a88b64f8d3a9bd314637a29c32e038322e2dfbe",
+      "source_art": "book12/images-print/background-concept-03-master.png",
+      "source_art_sha256": "7cfe521ffcf56cb9634da53b81c3aa0191144f85b5b09b76dae819e9148e3cf5",
+      "accent": "#e17f6d",
+      "font": "slab"
+    },
+    {
+      "number": 13,
+      "slug": "the-tow-yard",
+      "cover": "/assets/covers/the-tow-yard.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-tow-yard.webp",
+      "source_cover": "book13/images-print/cover-front.png",
+      "source_cover_sha256": "fbcfaf587e0334167a52fda2bed5226cf183f16e17f2c70814685c861508f322",
+      "source_art": "book13/images-print/background-concept-03-master.png",
+      "source_art_sha256": "8e9fb59de85aa9d91a2e4cbca9bc27bac8f68a1ceca29488b08476b26b78c544",
+      "accent": "#e9a74f",
+      "font": "condensed"
+    },
+    {
+      "number": 14,
+      "slug": "the-house-measure",
+      "cover": "/assets/covers/the-house-measure.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-house-measure.webp",
+      "source_cover": "book14/images-print/cover-front.png",
+      "source_cover_sha256": "23284386ebc2fcc3b7c88b510c6101b540794a50d318d0e774d2749facbcfbb6",
+      "source_art": "book14/images-print/background-concept-03-master.png",
+      "source_art_sha256": "7e24c337086da777b366e22b42c5357f512c5881a88aebba59745260436b3c1a",
+      "accent": "#7e4b35",
+      "font": "serif"
+    },
+    {
+      "number": 15,
+      "slug": "the-power-cut",
+      "cover": "/assets/covers/the-power-cut.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-power-cut.webp",
+      "source_cover": "book15/images-print/cover-front.png",
+      "source_cover_sha256": "3bd2ca668b29135215d80bfc3a0a6de4e15787e35c8e1c9a875e0546898432f8",
+      "source_art": "book15/images-print/background-concept-03-master.png",
+      "source_art_sha256": "4a6ba107e3f6f6a108526de385aa8df1a123559962e51f832d026a88c4d4e4fb",
+      "accent": "#234469",
+      "font": "condensed"
+    },
+    {
+      "number": 16,
+      "slug": "the-dead-letter-office",
+      "cover": "/assets/covers/the-dead-letter-office.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-dead-letter-office.webp",
+      "source_cover": "book16/images-print/cover-front.png",
+      "source_cover_sha256": "cab217741e81a1b810ba6993a294b0007b90d6cd22323355a839a3759ac4d4bd",
+      "source_art": "book16/images-print/background-concept-03-master.png",
+      "source_art_sha256": "a025f2ffb951dce33d3adf23656105fef0fa4de225e662b502b27cd75190f3ca",
+      "accent": "#e09973",
+      "font": "serif"
+    },
+    {
+      "number": 17,
+      "slug": "the-burial-ledger",
+      "cover": "/assets/covers/the-burial-ledger.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-burial-ledger.webp",
+      "source_cover": "book17/images-print/cover-front.png",
+      "source_cover_sha256": "0f00f017c310e18fdbf892b9977b18be3251bc508f56836c44591491da3ff456",
+      "source_art": "book17/images-print/background-concept-03-master.png",
+      "source_art_sha256": "b4ef933a2d437c3a03548fd44e0366f4f258410774d0715c787394def573bbcd",
+      "accent": "#3e4a2a",
+      "font": "serif"
+    },
+    {
+      "number": 18,
+      "slug": "the-returns-center",
+      "cover": "/assets/covers/the-returns-center.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-returns-center.webp",
+      "source_cover": "book18/images-print/cover-front.png",
+      "source_cover_sha256": "195226ff7a832b00dba5231fd8aba00bd2923d6c4468b7b5241b2c8b184aeb50",
+      "source_art": "book18/images-print/background-concept-03-master.png",
+      "source_art_sha256": "dbe285614ede59004d68018fd95eb0150cb015806c13d279eab9dfd70719e3d9",
+      "accent": "#e7896c",
+      "font": "condensed"
+    },
+    {
+      "number": 19,
+      "slug": "the-last-line",
+      "cover": "/assets/covers/the-last-line.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-last-line.webp",
+      "source_cover": "book19/images-print/cover-front.png",
+      "source_cover_sha256": "82a950d8c3680a7706a28fd3f451e6425fe2b0f9b30df7c37e8da5a15107d2a5",
+      "source_art": "book19/images-print/background-concept-03-master.png",
+      "source_art_sha256": "af23f564079751c0de40f1359d0d3159db766540c8e29fdc790d07203bdeaca7",
+      "accent": "#d59b6c",
+      "font": "condensed"
+    },
+    {
+      "number": 20,
+      "slug": "the-sterile-tray",
+      "cover": "/assets/covers/the-sterile-tray.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "artwork": "/assets/scenes/the-sterile-tray.webp",
+      "source_cover": "book20/images-print/cover-front.png",
+      "source_cover_sha256": "10ad9636aa6e9f187a9a16f240546b63c9c834589c95f845b7cf6309dad1d292",
+      "source_art": "book20/images-print/background-concept-03-master.png",
+      "source_art_sha256": "e1d64e8bafe6da0d630784266f70bba9dffebf2f9635b916f190a84989cc8535",
+      "accent": "#9bc8d2",
+      "font": "condensed"
+    }
+  ]
+}

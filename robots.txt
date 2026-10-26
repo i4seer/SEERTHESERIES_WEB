@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://stories.i4seer.com/sitemap.xml
