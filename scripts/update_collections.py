@@ -24,11 +24,11 @@ def update():
         result=[]
         for s in others:
             copy=s['description'] if full else s['tagline']
-            result.append(f'<article class="sc-card"><a class="sc-art" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Explore {e(s["name"])}"><img src="{version(s["image"])}" width="{s["width"]}" height="{s["height"]}" alt="{e(s["alt"])}" loading="lazy" decoding="async">{cover_thumb(s)}</a><div class="sc-card-body"><p class="sc-genre">{e(s["category"])}</p><h3 class="sc-title"><a href="{s["website"]}" target="_blank" rel="noopener">{e(s["name"])}</a></h3>'+('<p class="sc-tagline">'+e(s['tagline'])+'</p>' if full else '')+f'<p class="sc-description">{e(copy)}</p>'+('<p class="sc-audience">'+e(s['audience'])+'</p>' if full else '')+f'<a class="sc-explore" href="{s["website"]}" target="_blank" rel="noopener" aria-label="Visit {e(s["name"])} website">Explore collection <span aria-hidden="true">↗</span></a></div></article>')
+            result.append(f'<article class="sc-card"><a class="sc-art" href="{s["website"]}"  aria-label="Explore {e(s["name"])}"><img src="{version(s["image"])}" width="{s["width"]}" height="{s["height"]}" alt="{e(s["alt"])}" loading="lazy" decoding="async">{cover_thumb(s)}</a><div class="sc-card-body"><p class="sc-genre">{e(s["category"])}</p><h3 class="sc-title"><a href="{s["website"]}" >{e(s["name"])}</a></h3>'+('<p class="sc-tagline">'+e(s['tagline'])+'</p>' if full else '')+f'<p class="sc-description">{e(copy)}</p>'+('<p class="sc-audience">'+e(s['audience'])+'</p>' if full else '')+f'<a class="sc-explore" href="{s["website"]}"  aria-label="Visit {e(s["name"])} website">Explore collection <span aria-hidden="true">→</span></a></div></article>')
         return '<div class="sc-grid">'+''.join(result)+'</div>'
     theme=' sc-theme-'+current['slug']
-    preview=START+f'<section class="seer-discovery sc-preview{theme}" aria-labelledby="sc-discovery-title"><div class="sc-shell"><div class="sc-top"><div><p class="sc-eyebrow">Beyond {e(current["name"])}</p><h2 class="sc-heading" id="sc-discovery-title">More stories from B. Carter</h2></div><a class="sc-all" href="/other-series/">View all other collections →</a></div>'+cards()+'<p class="sc-publisher">Six collections. Many places to begin. <a href="https://www.i4seer.com/series/" target="_blank" rel="noopener">Explore Seer Press ↗</a></p></div></section>'+END
-    directory=f'<section class="seer-discovery sc-directory{theme}"><div class="sc-shell"><header class="sc-hero"><p class="sc-eyebrow">The wider Seer Press collection</p><h1 class="sc-page-title">Find your next collection.</h1><p class="sc-intro">You’re exploring {e(current["name"])}. Discover the other five collections by B. Carter, from impossible worlds and folklore to suspense and adventure.</p><a class="sc-all" href="/books/">Back to {e(current["name"])} books →</a></header>'+cards(True)+'<div class="sc-directory-end"><p>All six collections are published by Seer Press.</p><a class="sc-all" href="https://www.i4seer.com/series/" target="_blank" rel="noopener">Visit the publisher’s full collection directory ↗</a></div></div></section>'
+    preview=START+f'<section class="seer-discovery sc-preview{theme}" aria-labelledby="sc-discovery-title"><div class="sc-shell"><div class="sc-top"><div><p class="sc-eyebrow">Beyond {e(current["name"])}</p><h2 class="sc-heading" id="sc-discovery-title">More stories from B. Carter</h2></div><a class="sc-all" href="/other-series/">View all other collections →</a></div>'+cards()+'<p class="sc-publisher">Six collections. Many places to begin. <a href="https://i4seer.com/series/" >Explore Seer Press →</a></p></div></section>'+END
+    directory=f'<section class="seer-discovery sc-directory{theme}"><div class="sc-shell"><header class="sc-hero"><p class="sc-eyebrow">The wider Seer Press collection</p><h1 class="sc-page-title">Find your next collection.</h1><p class="sc-intro">You’re exploring {e(current["name"])}. Discover the other five collections by B. Carter, from impossible worlds and folklore to suspense and adventure.</p><a class="sc-all" href="/books/">Back to {e(current["name"])} books →</a></header>'+cards(True)+'<div class="sc-directory-end"><p>All six collections are published by Seer Press.</p><a class="sc-all" href="https://i4seer.com/series/" >Visit the publisher’s full collection directory →</a></div></div></section>'
     css_tag=f'<link rel="stylesheet" data-seer-collections href="{version("/assets/seer-collections/collections.css")}">'
     hosts={s['website'].split('/')[2] for s in others}|{'seerjourneys.com'}
     def old_cross(match):
@@ -43,7 +43,7 @@ def update():
         pattern=r'<div[^>]*>\s*<h([345])[^>]*>(?:Other series|More stories|More Seer|Other collections)</h\1>.*?</div>'
         def replace(m):
             heading=m[1]
-            links=''.join(f'<a href="{s["website"]}" target="_blank" rel="noopener">{e(s["name"])} ↗</a>' for s in others)+'<a href="/other-series/">All other collections →</a>'
+            links=''.join(f'<a href="{s["website"]}" >{e(s["name"])} →</a>' for s in others)+'<a href="/other-series/">All other collections →</a>'
             return f'<div class="sc-footer-links"><h{heading}>Other collections</h{heading}>'+links+'</div>'
         footer,count=re.subn(pattern,replace,footer,flags=re.S)
         assert count==1,('Expected one cross-collection footer',ROOT)
@@ -97,6 +97,8 @@ def update():
     if routes.exists():
         values=json.loads(routes.read_text())
         if '/other-series/' not in values:values.append('/other-series/');write(routes,json.dumps(values,indent=2)+'\n')
+    from family_navigation import update_family_navigation
+    update_family_navigation(ROOT)
     print(current['name']+': updated '+str(len(pages))+' pages; five other collections on home/book pages and full directory.')
 
 if __name__=='__main__':update()
